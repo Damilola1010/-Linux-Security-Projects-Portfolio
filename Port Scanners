@@ -1,0 +1,22 @@
+
+---
+
+## 🌐 Port Scanner (`port-scanner/README.md`)
+
+```markdown
+# Port Scanner
+
+## 📌 Overview
+Scans open ports on a target machine.
+
+## 🛠️ Tools
+- Bash
+- Netcat / Nmap
+
+## ⚙️ Features
+- Detects open ports
+- Helps identify attack surface
+
+## 🚀 Run
+```bash
+bash scanner.sh
