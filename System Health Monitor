@@ -1,0 +1,23 @@
+
+---
+
+## 📊 System Health Monitor (`system-health-monitor/README.md`)
+
+```markdown
+# System Health Monitor
+
+## 📌 Overview
+Monitors CPU, memory, and disk usage on a Linux system.
+
+## 🛠️ Tools
+- Bash
+- Linux system commands (top, df, free)
+
+## ⚙️ Features
+- CPU usage tracking
+- Memory monitoring
+- Disk space alerts
+
+## 🚀 Run
+```bash
+bash monitor.sh
