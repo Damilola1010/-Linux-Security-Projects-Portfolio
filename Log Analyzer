@@ -1,0 +1,22 @@
+
+---
+
+## 📁 Log Analyzer (`log-analyzer/README.md`)
+
+```markdown
+# Log Analyzer
+
+## 📌 Overview
+Analyzes system logs to identify suspicious activities.
+
+## 🛠️ Tools
+- Bash
+- Linux logs
+
+## ⚙️ Features
+- Extracts failed logins
+- Identifies unusual patterns
+
+## 🚀 Run
+```bash
+bash analyzer.sh
